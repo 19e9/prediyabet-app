@@ -182,6 +182,30 @@ Kimlik doğrulama gerektiren tüm uç noktalara istek başlığında `Authorizat
 
 ---
 
+## Admin Panel Ekran Görüntüleri
+
+### Giriş & Dashboard
+<p align="center">
+  <img src="screenshoot/panel/panel-login.png" width="45%" alt="Admin Panel Giriş"/>
+  <img src="screenshoot/panel/panel-dashboard.jpg" width="45%" alt="Admin Dashboard"/>
+</p>
+
+### İçerik Yönetimi
+<p align="center">
+  <img src="screenshoot/panel/panel-anket.png" width="30%" alt="Anket Soruları"/>
+  <img src="screenshoot/panel/panel-besinler.png" width="30%" alt="Besinler"/>
+  <img src="screenshoot/panel/panel-saglik-bilgiler.png" width="30%" alt="Sağlık Bilgileri"/>
+</p>
+
+### Diğer Sayfalar
+<p align="center">
+  <img src="screenshoot/panel/panel-hakkimizda.png" width="30%" alt="Hakkımızda"/>
+  <img src="screenshoot/panel/panel-iletisim.png" width="30%" alt="İletişim"/>
+  <img src="screenshoot/panel/panel-sss.png" width="30%" alt="Sık Sorulan Sorular"/>
+</p>
+
+---
+
 ## Lisans
 
 Bu proje eğitim amaçlı geliştirilmiştir.
