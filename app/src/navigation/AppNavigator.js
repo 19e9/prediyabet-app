@@ -18,6 +18,7 @@ import HealthInfoScreen from '../screens/HealthInfoScreen';
 import FaqScreen from '../screens/FaqScreen';
 import ContactScreen from '../screens/ContactScreen';
 import AboutScreen from '../screens/AboutScreen';
+import WeeklyStepsScreen from '../screens/WeeklyStepsScreen';
 
 const Stack = createNativeStackNavigator();
 
@@ -45,6 +46,7 @@ function AppStack() {
             <Stack.Screen name="Faq" component={FaqScreen} />
             <Stack.Screen name="Contact" component={ContactScreen} />
             <Stack.Screen name="About" component={AboutScreen} />
+            <Stack.Screen name="WeeklySteps" component={WeeklyStepsScreen} />
         </Stack.Navigator>
     );
 }

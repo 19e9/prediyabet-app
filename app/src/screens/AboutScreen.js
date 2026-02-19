@@ -54,7 +54,7 @@ export default function AboutScreen({ navigation }) {
                         <View style={styles.infoRow}>
                             <Icon name="school-outline" size={20} color={c.primary} />
                             <Text style={[styles.infoText, { color: c.textSecondary }]}>
-                                Kütahya Sağlık Bilimleri Üniversitesi
+                                Samsun Sağlık Bilimleri Üniversitesi
                             </Text>
                         </View>
                         <View style={styles.infoRow}>

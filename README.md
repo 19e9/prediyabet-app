@@ -148,7 +148,37 @@ Kimlik doğrulama gerektiren tüm uç noktalara istek başlığında `Authorizat
 
 ## Ekran Görüntüleri
 
-> Ana ekran, FINDRISK anketi, BKİ hesaplama ve adımsayar modülleri hem açık hem koyu tema desteğiyle sunulmaktadır.
+### Kimlik Doğrulama
+<p align="center">
+  <img src="screenshoot/login.jpg" width="220" alt="Giriş Ekranı"/>
+  <img src="screenshoot/register.jpg" width="220" alt="Kayıt Ekranı"/>
+</p>
+
+### Ana Modüller
+<p align="center">
+  <img src="screenshoot/bki hesaplama.jpg" width="220" alt="BKİ Hesaplama"/>
+  <img src="screenshoot/anket.jpg" width="220" alt="FINDRISK Anketi"/>
+  <img src="screenshoot/adimsayar.jpg" width="220" alt="Adımsayar"/>
+</p>
+
+### Haftalık Takip & Besin
+<p align="center">
+  <img src="screenshoot/hafatlik adimlarim.jpg" width="220" alt="Haftalık Adımlar"/>
+  <img src="screenshoot/besin ekle.jpg" width="220" alt="Besin Ekleme"/>
+</p>
+
+### Bilgi & Profil
+<p align="center">
+  <img src="screenshoot/bilgilendirme.jpg" width="220" alt="Sağlık Bilgilendirme"/>
+  <img src="screenshoot/profil.jpg" width="220" alt="Profil"/>
+  <img src="screenshoot/Hakkimizda.jpg" width="220" alt="Hakkımızda"/>
+</p>
+
+### Diğer Sayfalar & Tema
+<p align="center">
+  <img src="screenshoot/iletisim.jpg" width="220" alt="İletişim"/>
+  <img src="screenshoot/karanlik modu.jpg" width="220" alt="Karanlık Mod"/>
+</p>
 
 ---
 
