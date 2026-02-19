@@ -158,7 +158,7 @@ Kimlik doğrulama gerektiren tüm uç noktalara istek başlığında `Authorizat
 <p align="center">
   <img src="screenshoot/bki hesaplama.jpg" width="220" alt="BKİ Hesaplama"/>
   <img src="screenshoot/anket.jpg" width="220" alt="FINDRISK Anketi"/>
-  <img src="screenshoot/adimsayar.jpg" width="220" alt="Adımsayar"/>
+  <img src="screenshoot/adımsayar.jpg" width="220" alt="Adımsayar"/>
 </p>
 
 ### Haftalık Takip & Besin
